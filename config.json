@@ -1,0 +1,32 @@
+{
+  "CHW": {
+    "enable": true,
+    "servers": [
+      {
+        "ip": "127.0.0.1",
+        "port": 3456
+      },
+      {
+        "ip": "127.0.0.1",
+        "port": 3457
+      }
+    ]
+  },
+  "CDM": {
+    "enable": true,
+    "port": 3400
+  },
+  "MQTT": {
+    "ip": "127.0.0.1",
+    "port": 1883,
+    "Lineid": 1
+  },
+  "database": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "user": "root",
+    "passwd": "root",
+    "db": "kims",
+    "charset": "utf8"
+  }
+}

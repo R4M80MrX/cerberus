@@ -1,0 +1,4 @@
+[2019-08-31-21:42:14] [config parser] [INFO] config file config.json doesn't exist, please check
+[2019-08-31-21:42:49] [config parser] [INFO] config file config.json doesn't exist, please check
+[2019-08-31-21:45:23] [config parser] [ERROR] failed when parsing config file
+[2019-08-31-21:45:42] [config parser] [ERROR] failed when parsing config file: Expecting value: line 1 column 1 (char 0)
